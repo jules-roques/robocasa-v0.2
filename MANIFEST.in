@@ -4,3 +4,4 @@ recursive-include robocasa *.obj
 recursive-include robocasa *.mtl
 recursive-include robocasa *.png
 recursive-include robocasa *.json
+recursive-include robocasa *.yaml
