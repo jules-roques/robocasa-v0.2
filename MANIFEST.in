@@ -1,0 +1,6 @@
+recursive-include robocasa *.xml
+recursive-include robocasa *.stl
+recursive-include robocasa *.obj
+recursive-include robocasa *.mtl
+recursive-include robocasa *.png
+recursive-include robocasa *.json
